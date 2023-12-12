@@ -1,0 +1,6 @@
+const config = {
+  apiKey: 'VOTRE_CLE_API_JAMENDO',
+  albumId: 'ID_DE_VOTRE_ALBUM'
+};
+
+module.exports = config;
